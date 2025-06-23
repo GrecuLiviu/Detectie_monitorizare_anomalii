@@ -223,10 +223,6 @@ This project integrates several open source and third-party components. Their re
 - **Leaflet** — BSD 2-Clause License (https://leafletjs.com/)
 - **Carto Basemaps for Leaflet** — Creative Commons Attribution 4.0 International (CC BY 4.0) (https://carto.com/attributions)
 - **ipwho.is API** — Free public API, attribution required (https://ipwho.is/)
-
-## License
-[MIT License](LICENSE)
-
 ---
 
 **Author:** Grecu Constantin-Liviu-Florin

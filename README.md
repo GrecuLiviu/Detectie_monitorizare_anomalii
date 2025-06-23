@@ -224,17 +224,13 @@ This project integrates several open source and third-party components. Their re
 - **Carto Basemaps for Leaflet** — Creative Commons Attribution 4.0 International (CC BY 4.0) (https://carto.com/attributions)
 - **ipwho.is API** — Free public API, attribution required (https://ipwho.is/)
 
-See each package's documentation or the `package.json` for full details. You are responsible for complying with the terms of these licenses when using, modifying, or distributing this project.
-
 ## License
 [MIT License](LICENSE)
 
 ---
 
-**Author:** [Your Name Here]
+**Author:** Grecu Constantin-Liviu-Florin
 
-**Project for:** Final Year License in Engineering and Computer Science
+**Project for:** Final Year License in Technologies and Telecommunications Systems
 
 ---
-
-*For questions or clarifications, please contact the author or open an issue.*

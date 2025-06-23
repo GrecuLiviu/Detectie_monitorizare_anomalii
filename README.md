@@ -30,8 +30,6 @@ A professional, full-stack security monitoring and anomaly detection dashboard f
 - [Reliability & Monitoring](#reliability--monitoring)
 - [Troubleshooting](#troubleshooting)
 - [Middleware](#middleware)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -207,9 +205,6 @@ Input validation and sanitization are performed on all user inputs, including qu
 - **CSRF Middleware:** Protects against cross-site request forgery using tokens.
 - **Session Middleware:** Manages secure sessions and cookies for user authentication.
 - **Static File Protection:** Restricts access to static files for authenticated users only.
-
-## Contributing
-This project is part of a final year engineering and CS license. Contributions are welcome for learning and improvement purposes.
 
 ## Third-Party Licenses
 
